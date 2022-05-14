@@ -1,23 +1,23 @@
 # Huffman
 Huffman coding and decoding
-
--------------------SAMPLE OUTPUT--------------------
-Frequency Character Map-
- 10
- 11
-! 100
-H 1
-d 010
-e 101
-h 011
-l 111
-o 110
-r 000
-w 001
-Huffman encoding:
-011101111111110001110000111010100
-Huffman decoding:
-helloworld!
-
-Steps to run-
+<br>
+-------------------SAMPLE OUTPUT--------------------<br>
+Frequency Character Map-<br>
+ 10<br>
+ 11<br>
+! 100<br>
+H 1<br>
+d 010<br>
+e 101<br>
+h 011<br>
+l 111<br>
+o 110<br>
+r 000<br>
+w 001<br>
+Huffman encoding:<br>
+011101111111110001110000111010100<br>
+Huffman decoding:<br>
+helloworld!<br>
+<br>
+Steps to run-<br>
 [clone git ptoject -> import project->build->Run Huffman.cpp]
